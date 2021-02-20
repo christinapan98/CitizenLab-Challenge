@@ -33,7 +33,7 @@ Issues and blockers can't always be predicted and writing software under time pr
 - [x] Project selection
 - [ ] Bonus: Most popular tags
 - [x] Bonus: ... (surprise us!))
-    Project removal
+    Partial project removal
 
 ## Rules
 
