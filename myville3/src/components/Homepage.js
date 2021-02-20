@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './Homepage.css';
-import Project from './Project.js';
 import {projectData} from '../data.js';
 import square from '../img/square.jpg';
 import brainstorm from '../img/square.jpg';
